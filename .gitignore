@@ -1,0 +1,12 @@
+/target/
+.settings/
+deploy.sh
+MANIFEST.MF
+.classpath
+.project
+nb-configuration.xml
+nbactions.xml
+/nbproject/
+*.log
+.idea
+*.iml
